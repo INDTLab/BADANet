@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```
 
 ### Data Sets
-We provide data sets used in the paper: [CAMO](https://sites.google.com/view/ltnghia/research/camo), [CHAMELEON](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/), [COD0K](https://drive.google.com/file/d/1pVq1rWXCwkMbEZpTt4-yUQ3NsnQd_DNY/view?usp=sharing), [NC4K](https://drive.google.com/file/d/1kzpX_U3gbgO9MuwZIWTuRVpiB7V6yrAQ/view?usp=sharing)
+We provide data sets used in the paper: [CAMO](https://sites.google.com/view/ltnghia/research/camo), [CHAMELEON](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/), [COD10K](https://drive.google.com/file/d/1pVq1rWXCwkMbEZpTt4-yUQ3NsnQd_DNY/view?usp=sharing), [NC4K](https://drive.google.com/file/d/1kzpX_U3gbgO9MuwZIWTuRVpiB7V6yrAQ/view?usp=sharing)
 
 
 ### Pre-Trained Weights
