@@ -43,7 +43,7 @@ python ./main.py \
 --config "./configs/zoomnet/cod_zoomnet.py" \
 --datasets-info "./configs/_base_/dataset/dataset_configs.json"
 ```
- Test
+ ### Test
  ```
 python ./test.py \
  --model-name CAMO \
