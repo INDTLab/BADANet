@@ -36,7 +36,7 @@ We provide data sets used in the paper: [CAMO](https://sites.google.com/view/ltn
 You can also download th pre-trained models on the BADANet: [GoogleLink](https://drive.google.com/file/d/1TSzoyMiNQPf13q9FbBCXSudZRAjdcB1N/view?usp=sharing)
 
 ### Train
-You can use command like this:  
+You can train the model using the following command:  
 ```
 python ./main.py \
 --model-name CAMO \
@@ -44,6 +44,7 @@ python ./main.py \
 --datasets-info "./configs/_base_/dataset/dataset_configs.json"
 ```
  ### Test
+ You can evaluate the model on a specified dataset using the following command
  ```
 python ./test.py \
  --model-name CAMO \
