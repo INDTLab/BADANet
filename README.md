@@ -32,8 +32,8 @@ pip install -r requirements.txt
 We provide data sets used in the paper: [CAMO](https://sites.google.com/view/ltnghia/research/camo), [CHAMELEON](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/), [COD0K](https://drive.google.com/file/d/1pVq1rWXCwkMbEZpTt4-yUQ3NsnQd_DNY/view?usp=sharing), [NC4K](https://drive.google.com/file/d/1kzpX_U3gbgO9MuwZIWTuRVpiB7V6yrAQ/view?usp=sharing)
 
 
-### Pre-Trained Models
-You can also download th pre-trained models on the BADANet: [GoogleLink](https://drive.google.com/file/d/1TSzoyMiNQPf13q9FbBCXSudZRAjdcB1N/view?usp=sharing)
+### Pre-Trained Weights
+You can download the pre-trained weights of BADANet from [GoogleLink](https://drive.google.com/file/d/1TSzoyMiNQPf13q9FbBCXSudZRAjdcB1N/view?usp=sharing)
 
 ### Train
 You can train the model using the following command:  
