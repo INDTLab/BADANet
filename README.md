@@ -13,7 +13,7 @@
 
 # Usage
 ### Installation
-1. Create a virtual environment named `BASR`:   
+1. Create a virtual environment named `BADA`:   
 ```
 conda create -n BADA python=3.8 -y
 ```     
